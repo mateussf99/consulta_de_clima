@@ -1,5 +1,5 @@
 //Variaveis
-const apiKey = ""; // chave da api cuidado
+const apiKey = ""; // chave da api aqui
 
 //seleção de elementos
 const cityInput = document.querySelector("#city-input");
